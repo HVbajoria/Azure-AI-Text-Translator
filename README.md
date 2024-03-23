@@ -19,7 +19,7 @@
 
 Have you ever wanted to incorporate artificial intelligence into a website? Do you want to be able to translate text in your web apps? With Cognitive Services and Flask you can create a website to translate text with a small amount of code.
 
-![Screenshot of final project]()
+![Screenshot of final project](https://github.com/HVbajoria/Azure-AI-Text-Translator/assets/62978274/d9d302cb-a17e-4b50-b16a-4500807b0533)
 
 ## Next steps
 
